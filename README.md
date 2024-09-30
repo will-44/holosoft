@@ -1,2 +1,2 @@
 # holosoft
-an old ros1 navigation implementation
+an old stm32 navigation firmeware for a omnirobot
